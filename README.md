@@ -1,7 +1,7 @@
 # laravel-react-youtube<br>
 Laravel backend and react youtube api<br>
 
-To Install:
+To Install
 
 npm run install<br>
 npm run dev<br>
