@@ -5,7 +5,7 @@ To Install
 
 composer install<br>
 laravel .env - edit mysql credentials<br>
-artisan migrate<br>
+php artisan migrate<br>
 
 npm run install<br>
 npm run build<br>
