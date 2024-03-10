@@ -1,0 +1,29 @@
+: 
+{content: 'UU-GebNqdbg', id: 'UU-GebNqdbg', url: 'https://i.ytimg.com/vi/UU-GebNqdbg/default.jpg', title: 'The Legend of jQuery in 100 Seconds', description: "jQuery is the world's most popular JavaScript libr…g it in production today. Learn the basics of ..."}
+1
+: 
+{content: 'QhQ4m5g2fhA', id: 'QhQ4m5g2fhA', url: 'https://i.ytimg.com/vi/QhQ4m5g2fhA/default.jpg', title: 'jQuery Tutorial | jQuery Tutorial For Beginners |  jQuery |  jQuery full course | Simplilearn', description: 'Full Stack Developer (MERN Stack): ...'}
+2
+: 
+{content: 'BaIgTKj1iCQ', id: 'BaIgTKj1iCQ', url: 'https://i.ytimg.com/vi/BaIgTKj1iCQ/default.jpg', title: '1: How to Get Started With | jQuery Tutorial | Learn jQuery | jQuery Tutorial For Beginners', description: 'jQuery Tutorial for Beginners | jQuery Tutorial | …is jQuery tutorial I will explain what jQuery ...'}
+3
+: 
+{content: 'JjIvF0yikGU', id: 'JjIvF0yikGU', url: 'https://i.ytimg.com/vi/JjIvF0yikGU/default.jpg', title: 'Learn jQuery in 6 minutes | How to Use a  JavaScript Library | Code in 5', description: "Learn how to make your websites interactive with a… in 6 minutes! We'll select some elements and ..."}
+4
+: 
+{content: 'mX_jE18Zuyg', id: 'mX_jE18Zuyg', url: 'https://i.ytimg.com/vi/mX_jE18Zuyg/default.jpg', title: 'JQUERY ПРОТИВ JAVASCRIPT. Стоит ли учить jQuery в 2021? Что лучше для развития программиста?', description: 'jQuery против JavaScript. Кто же круче библиотека …cript? Стоит ли учить и использовать jQuery в ...'}
+5
+: 
+{content: 'Rkvn_MA04fo', id: 'Rkvn_MA04fo', url: 'https://i.ytimg.com/vi/Rkvn_MA04fo/default.jpg', title: 'jQuery Full Course 2022 | jQuery Tutorial For Beginners | jQuery Tutorial | Simplilearn', description: 'Full Stack Developer (MERN Stack): ...'}
+6
+: 
+{content: '3nrLc_JOF7k', id: '3nrLc_JOF7k', url: 'https://i.ytimg.com/vi/3nrLc_JOF7k/default.jpg', title: 'jQuery Crash Course [1] - Intro &amp; Selectors', description: 'In this video we will cover jQuery selectors in de…s by id, class, CSS3 pseudo selectors and the ...'}
+7
+: 
+{content: 'BDvzRmLWO50', id: 'BDvzRmLWO50', url: 'https://i.ytimg.com/vi/BDvzRmLWO50/default.jpg', title: 'Стоит ли учить jQuery в 2023 году?', description: 'Освой HTML/CSS и чуточку JavaScript с нуля на базо…ps://frontendblok.com/courses/html-css ❤️ Или ...'}
+8
+: 
+{content: 'aN8V-Ah2y4Q', id: 'aN8V-Ah2y4Q', url: 'https://i.ytimg.com/vi/aN8V-Ah2y4Q/default.jpg', title: 'What Is jQuery? A Look At the Web’s Most-Used JavaScript Library', description: "Explore the world of jQuery — AKA the web's most-u…t library — in this thorough guide Subscribe: ..."}
+9
+: 
+{content: 'HEYQACm0oyk', id: 'HEYQACm0oyk', url: 'https://i.ytimg.com/vi/HEYQACm0oyk/default.jpg', title: 'Что",description: "Explore the world of jQuery — AKA the web's most-u…t library — in this thorough guide Subscribe: ..."}
